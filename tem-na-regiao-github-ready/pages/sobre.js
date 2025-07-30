@@ -1,0 +1,1 @@
+export default function Sobre() { return <div className="p-6">Sobre o Tem na Região</div> }

@@ -1,0 +1,1 @@
+export default function Comercios() { return <div className="p-6">Comércios da Região</div> }

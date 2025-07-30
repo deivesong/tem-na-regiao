@@ -1,0 +1,1 @@
+export default function Contato() { return <div className="p-6">Fale Conosco</div> }

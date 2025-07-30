@@ -1,0 +1,1 @@
+export default function Vagas() { return <div className="p-6">Vagas de Emprego</div> }
